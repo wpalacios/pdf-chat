@@ -8,7 +8,7 @@ This is a TypeScript React project, it follows [Atomic Design UI principles](htt
 - yarn dev (to start in dev mode) or `yarn start` otherwise
 
 ## Choices made
-
+- React 18.2.0 (Node v18.17.0)
 - React Reducer and Context was used for clean state management. [More info](https://react.dev/learn/scaling-up-with-reducer-and-context)
 - TailwindCSS was used for rapid component styling and templates creation. [More Info](https://tailwindcss.com/)
 - React-pdf-viewer library was used for rendering pdf content. [More Info](https://react-pdf-viewer.dev/)
