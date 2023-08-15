@@ -4,6 +4,7 @@ This is a TypeScript React project, it follows [Atomic Design UI principles](htt
 
 ## How to run your project
 
+- create a .env file with REACT_APP_BASE_URL and REACT_APP_API_ENV
 - yarn (to install all packages and dependencies)
 - yarn dev (to start in dev mode) or `yarn start` otherwise
 
